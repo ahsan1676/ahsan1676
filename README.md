@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ahsan1676/ahsan1676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Math
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Coding
+- 👯 I’m looking to collaborate on Math Projects
+- 🤔 I’m looking for help with Coding
+- 💬 Ask me about any Math
+- 📫 How to reach me: ahsan.rajib.pranto@g.bracu.ac.bd 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing Fun about My Life
+
